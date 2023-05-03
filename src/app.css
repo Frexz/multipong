@@ -15,3 +15,11 @@ body {
     height: 25px;
     position: absolute;
 }
+
+.ball {
+    background-color: white;
+    border-radius: 50%;
+    height: 20px;
+    position: absolute;
+    width: 20px;
+}
